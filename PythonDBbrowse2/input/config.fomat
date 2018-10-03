@@ -1,0 +1,10 @@
+[psql database]
+host=XXXX.rds.amazonaws.com
+database=postgress
+user=XXXXX
+password=XXXX
+port=5432
+
+[PipelinePaths]
+
+[Archival Storage]
